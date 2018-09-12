@@ -151,7 +151,7 @@
         "Minimum File Age" : "0 sec",
         "Polling Interval" : "0 sec",
         "Input Directory" : "/Users/Gino/sandbox/ApacheNifi/source",
-        "Batch Size" : "11",
+        "Batch Size" : "12",
         "Minimum File Size" : "0 B",
         "Ignore Hidden Files" : "true",
         "Recurse Subdirectories" : "true",
